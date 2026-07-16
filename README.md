@@ -31,7 +31,7 @@ cd CaesarCipher
 To compile the program, use **GCC**:
 
 ```bash
-gcc -o caesar_cipher "Caesar cipher.c"
+gcc -o caesar_cipher main.c
 ```
 
 ## 🚀 Running the Program
@@ -47,7 +47,7 @@ After compiling, run the program using:
 
 
 ## 💻 Running the Program Locally
-If you'd like to run the program on your own computer, you're welcome to download the `.c` file and run it on any C compiler, including **Visual Studio** or others of your choice.
+If you'd like to run the project locally, simply clone or download the repository, compile `main.c`, and execute the generated binary using any standard C compiler such as GCC.
 
 Simply open the file in your preferred compiler, compile, and run the program as instructed. Enjoy exploring the Caesar Cipher encryption and decryption process!
 
