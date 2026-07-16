@@ -57,4 +57,4 @@ Simply open the file in your preferred compiler, compile, and run the program as
 This project is open-source and free to use.
 
 ---
-**Created by [ALAADROID](https://github.com/ALAADROID)**
+**Developed by [ALAADROID](https://github.com/ALAADROID)**
