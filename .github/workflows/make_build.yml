@@ -14,7 +14,7 @@ jobs:
         run: sudo apt update && sudo apt install -y gcc
 
       - name: Compile C Code
-        run: gcc -o CaesarCipher CaesarCipher.c
+        run: gcc -o CaesarCipher main.c
 
       - name: Run C Program
         run: ./CaesarCipher
