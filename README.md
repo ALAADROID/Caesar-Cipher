@@ -16,8 +16,6 @@ This project implements the **Caesar Cipher**, a simple encryption technique whe
 
 ## Screenshots
 
-## Screenshots
-
 |Main Menu|Test|
 |---|---|
 |![Main Menu](assets/Main-menu.png)|![Test](assets/Test.png)|
