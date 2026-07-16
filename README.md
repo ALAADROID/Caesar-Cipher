@@ -13,6 +13,17 @@ This project implements the **Caesar Cipher**, a simple encryption technique whe
 
 ✅ Written in pure **C** for efficiency and simplicity.
 
+
+## Screenshots
+
+## Screenshots
+
+|Main Menu|Test|
+|---|---|
+|![Main Menu](assets/Main-menu.png)|![Test](assets/Test.png)|
+
+
+
 ## How It Works
 1. The user enters the text to be encrypted.
 2. The user provides a shift key (an integer).
