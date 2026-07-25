@@ -1,5 +1,11 @@
 # Caesar Cipher Encryption & Decryption in C
 
+![C](https://img.shields.io/badge/C-Programming-blue)
+![Cryptography](https://img.shields.io/badge/Cryptography-Caesar%20Cipher-orange)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-Apache%202.0-blue)
+
+
 This project implements the **Caesar Cipher**, a simple encryption technique where each letter in the plaintext is shifted by a fixed number of positions in the alphabet.
 
 ## Features
